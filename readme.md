@@ -1,0 +1,2 @@
+# Data Mining Lab
+This repo notebook aims to analyze the performance of multiple algorithms (J48, Random Forest, KNN (K=5, K=10), Naive Bayes) trained and tested on multiple datasets (Iris, Glass, Weather).
